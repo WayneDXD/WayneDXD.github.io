@@ -1,0 +1,116 @@
+
+
+
+
+
+
+body {
+
+background-color: indianred;
+
+
+}
+
+/* classes */
+.headers{
+	padding-left: 5%;
+}
+
+
+.paraGraphs{
+
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+     
+
+.graffImage {
+	padding-left: 30%;
+	width: 35%;
+}
+ .locationOne {
+
+	padding-left: 37%;
+	width: 25%;
+
+}
+ 
+/*ID*/
+
+#trial{align-content: center;}
+
+#myNameIs{
+	padding-left: 45%;
+	font-size: 45px;
+}
+
+#wClark{
+
+padding-left: 45%;
+
+}
+
+#clark{
+
+padding-left: 35%;	
+width: 29%;
+
+}
+
+#potvin{
+
+	padding-left: 46%;
+}
+
+#fPotvin{
+
+	padding-left: 35%;
+	width: 28%;
+}
+
+
+#sundin{
+
+	padding-left: 45%;
+
+}
+
+#mSundin{
+
+padding-left: 35%;
+width: 29%;
+
+}
+
+   
+
+#graffiti{
+	padding-left: 5%;
+}
+
+
+
+#gh{
+	padding-left: 34%;
+}
+
+
+
+#urban{
+	padding-left: 37%;
+}
+
+
+#hsa{
+	padding-left: 39%;
+}
+
+
+
+
+ #ending{padding-left: 5%;
+ 	padding-right: 5%;
+ 	font-size: 36px;}
+
+   
