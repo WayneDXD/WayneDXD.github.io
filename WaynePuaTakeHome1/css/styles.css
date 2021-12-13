@@ -61,6 +61,8 @@ padding-bottom: 20%;
 }
 
 .footer {
+	
+	position:absolute;
 	padding-top: 0.5%;
 	
 	text-align: center;
