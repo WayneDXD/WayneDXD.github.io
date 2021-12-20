@@ -1,0 +1,44 @@
+
+body{
+
+
+
+}
+
+
+
+.panels{
+
+position: absolute;
+width: 150px;
+height: 150px;
+padding-left: 25%;
+padding-top: 20%;
+
+
+}
+
+
+.buttons{
+
+
+
+
+}
+
+.buttons2{
+
+
+
+
+}
+
+
+
+
+.paragraph{
+
+
+}
+
+

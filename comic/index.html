@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>comic</title>
+	<link rel="stylesheet" type href="style/stylesheet.css"> <!-- link css -->
+</head>
+<body>
+
+
+<!-- array -->
+<div class ="panel"> <!-- used the div as a way to contain multiple elements as well as a way to add styles to multiple elements at once if needed and it can be used for functions to create or call to from javascript.-->
+
+<img id ="pan" src="pics/joe.png"> <!-- created this image to start the array function in my javascript.-->
+
+</div>
+
+
+<!-- next button -->
+<div class="buttons">
+
+<button  onclick="nextPanel()" id="next"> Next </button>   <!-- added this button with a function to allow me to change through the array -->
+
+</div>
+
+
+
+
+
+<!-- food links -->
+<div class="buttons2">
+	
+<a href="toaster.html"><button onclick = "toast()" id ="opt1" style="display: none;"> Margerine and Toast. Yummy! </button></a> <!-- created these buttons as links to another html page for the user choice-->
+
+<a href="takeout.html"> <button onclick ="takeout()"    id ="opt2" style="display: none;"> Takeout :P </button></a>
+
+</div>
+
+
+<!-- text and story -->
+<div class="paragraphs"> <!-- as mentioned above the div combined with a class can be used to attach multiple style functions to multiple elements, in this case i used a class to add style to my text as I planned for them to be in the same style.-->
+
+<p id="intro"> Hey my name is Joe but people call me Unfortunate Joe.
+
+<br>Heres my story!
+
+
+</p>	
+
+<p id="alarm" style="display:none;">Joe is sleeping peacefully. Unfortunatley Joe's alarm was not set lastnight.
+<br>Joe wakes up alarmed and rushes to his phone. 
+ </p>
+
+<p id="phone" style="display:none;"> Fortunatley Joe's manager, Doug calls him to tell him that his shift has been cancelled. </p>
+
+<p id="fridge" style="display:none;"> Joe is relieved that his shift is cancelled, but he cant deny the fact that he is hungry. 
+<br>Unfortunatley Joe forgot to get groceries and must decide to what to eat.
+<br> Toast or leftovers? 
+</p>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="js/script.js"></script>
+</body>
+</html>

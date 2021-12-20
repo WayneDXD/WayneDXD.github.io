@@ -1,0 +1,150 @@
+
+
+
+/*body*/
+body{
+background-color: lavender;
+
+
+}
+
+
+/* illustrations */
+.panel{
+
+
+
+}
+
+#pan{
+	 /* width and height adjust the elements size via pixel or percent depending on the situation, padding allows creates a space between elements including the page, simmilar to <br> but with more specification.*/
+width: 375px;  
+height: 320px;
+padding-left:36% ;
+padding-top:10% ;
+
+}
+
+#broke{
+width: 375px;
+height: 320px;
+padding-left:36% ;
+padding-top:10% ;
+}
+
+#food{
+
+width: 375px;
+height: 320px;
+padding-left:36% ;
+padding-top:10% ;
+
+
+}
+
+
+
+
+
+}
+
+
+/*next*/
+.buttons{
+    
+}
+
+ /* margin -left is used in context with elements similar to buttons as it allows to move the whole object at once
+    text align allows us to move the text in any given context ie page, button or div etc.
+    border style allows us to make it the border of the button a different styl such as "none" , or rounded.
+    background color allows us to change the color of the element it is being called to in this case the button.
+    cursor allows us to change the style of the element when the cursor intersects with the element, in this case it will change to a hand pointing thus "pointer".
+    */
+
+   #next{ 
+	margin-left:48% ;
+	text-align: center;
+	color:whitesmoke ;
+	border-style:solid ;
+	background-color: dimgray ;
+	width:100 px ;
+	height: 35px;
+	cursor:pointer ;
+
+
+
+}
+
+
+#path{
+
+
+	margin-left:48% ;
+	text-align: center;
+	color:whitesmoke ;
+	border-style:solid ;
+	background-color: dimgray ;
+	width:100 px ;
+	height: 35px;
+	cursor:pointer ;
+
+}
+
+
+#path2{
+    margin-left:48% ;
+	text-align: center;
+	color:whitesmoke ;
+	border-style:solid ;
+	background-color: dimgray ;
+	width:100 px ;
+	height: 35px;
+	cursor:pointer ;
+
+
+
+}
+/*opt 1 & 2 */
+.buttons2{}
+
+/* position allows for elements to gain specific charateristics such as absolute where this allows the element to be the top layer and go over elements as well. */
+
+#opt1{ position: absolute; 
+
+	margin-top: ;
+	margin-left:35% ;
+	text-align: center;
+	color:yellow ;
+	border-style:solid ;
+	background-color: brown;
+	width:100 px ;
+	height: 35px;
+	cursor:pointer ;
+
+ 
+
+
+}
+
+#opt2{
+		margin-top: ;
+	margin-left:57% ;
+	text-align: center;
+	color: indianred ;
+	border-style: solid ;
+	background-color: sandybrown ;
+	width: 85px ;
+	height: 35px ;
+	cursor: pointer;
+
+
+}
+
+.paragraphs{
+
+	text-align: center;
+
+
+}
+
+
